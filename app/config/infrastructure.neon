@@ -1,0 +1,3 @@
+services:
+	.infrastructure.shopping.tablet.featureFlag:
+		class: MyApp\Infrastructure\Shopping\Tablet\FeatureFlag

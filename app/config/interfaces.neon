@@ -1,0 +1,3 @@
+services:
+	.interfaces.flag:
+		class: MyApp\Interfaces\Flag

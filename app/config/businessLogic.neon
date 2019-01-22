@@ -1,0 +1,3 @@
+services:
+	businessLogic.shopping.productDetail.tablet.displayCondition:
+		class: MyApp\BusinessLogic\Shopping\ProductDetail\Tablet\DisplayCondition
